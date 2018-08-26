@@ -109,7 +109,7 @@ a {
 
 .firstDiv {
 	width: 100%;
-	height: 37rem;                    changing for bigger screen
+	height: 37rem;                    /*changing for bigger screen */
 	background-repeat: no-repeat;
 	background-size: cover;
 	opacity: 1;
