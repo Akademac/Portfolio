@@ -113,7 +113,7 @@ a {
 	background-repeat: no-repeat;
 	background-size: cover;
 	opacity: 1;
-	position: relative;
+	position: absolute;
 	margin-top: 3.437rem;
 	display: inline-block;
 }
