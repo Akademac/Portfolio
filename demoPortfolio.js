@@ -119,7 +119,7 @@ $(function() {
 			left: '-700px'
 		}, 0.1);
 		$('thead th:nth-child(2)').animate({
-			left: '700px'
+			left: '900px'
 		}, 0.1);
 		$('thead th:nth-child(3)').animate({
 			bottom: '700px'
@@ -134,7 +134,7 @@ $(function() {
 			bottom: '-700px'
 		}, 0.1);
 		$('tbody tr:nth-child(1) td:nth-child(4)').animate({
-			left: '700px'
+			left: '900px'
 		}, 0.1);
 		$('tbody tr:nth-child(2) td:nth-child(1)').animate({
 			bottom: '700px'
@@ -155,7 +155,7 @@ $(function() {
 			left: '-1000px'
 		}, 0.1);
 		$('tbody tr:nth-child(2) td:nth-child(7)').animate({
-			left: '1000px'
+			left: '1200px'
 		}, 0.1);
 		$('tbody tr:nth-child(2) td:nth-child(8)').animate({
 			bottom: '-700px'
@@ -164,7 +164,7 @@ $(function() {
 			left: '-1000px'
 		}, 0.1);
 		$('tbody tr:nth-child(2) td:nth-child(10)').animate({
-			left: '700px'
+			left: '900px'
 		}, 0.1);
 		
 	});
