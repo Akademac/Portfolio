@@ -545,8 +545,9 @@ footer div:nth-child(3) img {
 	padding-top: 25px;
 }
 
+									/*Responsive height:700*/
 
-									/*Responsive width:640*/
+
 
 
 
@@ -554,7 +555,21 @@ footer div:nth-child(3) img {
 	.firstDiv {
 		height: 42rem;
 	}
+	#progresBar2 {
+		height: 42rem;
+	}
 }
+
+
+
+
+
+
+									/*Responsive width:640*/
+
+
+
+
 
 
 
