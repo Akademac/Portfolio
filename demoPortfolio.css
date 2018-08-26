@@ -109,7 +109,7 @@ a {
 
 .firstDiv {
 	width: 100%;
-	max-height: 40rem;
+	height: 40rem;
 	background-repeat: no-repeat;
 	background-size: cover;
 	opacity: 1;
