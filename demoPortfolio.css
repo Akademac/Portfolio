@@ -550,7 +550,7 @@ footer div:nth-child(3) img {
 
 
 
-@media only screen and (max-height: 700px) {
+@media only screen and (min-height: 700px) {
 	.firstDiv {
 		height: 42rem;
 	}
