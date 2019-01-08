@@ -225,7 +225,7 @@ $(function() {
 	$('table').on('mouseout', function() {
 		$('#tableMouseOver').css('opacity', .7);
 	}); 
-
+ 
 /*Artiskic skills*/
 
 	$('#portfolioDiv1 div:nth-child(6)').on('click', function() {
