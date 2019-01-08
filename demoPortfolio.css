@@ -379,7 +379,7 @@ caption {
 	text-align: left;
 }
 
-table, tr, th , td {
+ tr, th , td {
 	border-collapse: collapse;
 	text-align: left;
 	border: 2px solid #ffffff;
